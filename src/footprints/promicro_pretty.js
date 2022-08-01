@@ -59,6 +59,11 @@ module.exports = {
     (fp_line (start -14.224 3.81) (end -19.304 3.81) (layer Dwgs.User) (width 0.15))
     (fp_line (start -14.224 -3.81) (end -14.224 3.81) (layer Dwgs.User) (width 0.15))
 
+    (fp_line (start 16.51 -8.89) (end 16.51 8.89) (layer "Dwgs.User") (width 0.15) (tstamp 25ec9df0-d25e-48aa-bdef-803e76c19770))
+    (fp_line (start -16.51 8.89) (end 16.51 8.89) (layer "Dwgs.User") (width 0.15) (tstamp 38d6c574-8e5c-4f02-8caf-392a78b02f47))
+    (fp_line (start -16.51 -8.89) (end 16.51 -8.89) (layer "Dwgs.User") (width 0.15) (tstamp 5664bede-63f9-4727-94db-a2b2c40adb8f))
+    (fp_line (start -16.51 -8.89) (end -16.51 8.89) (layer "Dwgs.User") (width 0.15) (tstamp 6bdec0e2-f708-4d31-ad01-879410fcefec))
+
     (fp_circle (center 13.97 0.762) (end 14.095 0.762) (layer B.Mask) (width 0.25))
     (fp_circle (center 13.97 0.762) (end 14.095 0.762) (layer F.Mask) (width 0.25))
     (fp_circle (center 13.97 -0.762) (end 14.095 -0.762) (layer B.Mask) (width 0.25))
