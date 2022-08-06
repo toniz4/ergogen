@@ -19,4 +19,5 @@ module.exports = {
     text: require('./text'),
     trrs: require('./trrs'),
     via: require('./via'),
+    flower: require('./flower.js')
 }
